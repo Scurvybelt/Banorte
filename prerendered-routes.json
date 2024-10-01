@@ -1,0 +1,25 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/about-2",
+    "/blog-details",
+    "/blog-grid",
+    "/blog-right-sidebar",
+    "/business",
+    "/contact",
+    "/contact-2",
+    "/faq",
+    "/how-it-works",
+    "/ia",
+    "/index-2",
+    "/index-3",
+    "/index-6",
+    "/index-7",
+    "/personal",
+    "/pricing",
+    "/signin",
+    "/signup",
+    "/team"
+  ]
+}
